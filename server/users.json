@@ -1,0 +1,8 @@
+{
+   "user_01" : {
+      "name" : "Pablo",
+      "password" : "password1",
+      "profession" : "engineer",
+      "id": 1
+   }
+}
